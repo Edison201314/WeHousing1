@@ -1,0 +1,95 @@
+{
+	"apartments":[{
+		"name": "The Pavilion on Berry",
+		"image": "my favourite 1.jpg",
+		"price": 512,
+		"popularity": 4,
+		"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+	}, {
+		"name": "Radius @15th",
+		"image": "my favourite 2.jpg",
+		"price": 492,
+		"popularity": 5,
+		"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+	}, {
+
+		"name": "416 Lofts",
+		"image": "my favourite 3.jpg",
+		"price": 460,
+		"popularity": 3,
+		"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+	}, {
+
+		"name": "Edge on Oak",
+		"image": "my favourite 4.jpg",
+		"price": 532,
+		"popularity": 7,
+		"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+	},{
+		"name": "The Pavilion on Berry",
+		"image": "my favourite 5.jpg",
+		"price": 512,
+		"popularity": 4,
+		"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+	},{
+		"name": "The Pavilion on Berry",
+		"image": "my favourite 6.jpg",
+		"price": 512,
+		"popularity": 3,
+		"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+	},{
+		"name": "The Pavilion on Berry",
+		"image": "my favourite 7.jpg",
+		"price": 512,
+		"popularity": 2,
+		"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+	},{
+		"name": "The Pavilion on Berry",
+		"image": "my favourite 8.jpg",
+		"price": 512,
+		"popularity":1,
+		"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+	},{
+		"name": "The Pavilion on Berry",
+		"image": "my favourite 9.jpg",
+		"price": 512,
+		"popularity":9,
+		"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+	},{
+		"name": "The Pavilion on Berry",
+		"image": "my favourite 10.jpg",
+		"price": 512,
+		"popularity": 7,
+		"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+	},{
+		"name": "The Pavilion on Berry",
+		"image": "my favourite 11.jpg",
+		"price": 512,
+		"popularity": 8,
+		"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+	},{
+		"name": "The Pavilion on Berry",
+		"image": "my favourite 12.jpg",
+		"price": 512,
+		"popularity": 2,
+		"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+	},{
+		"name": "The Pavilion on Berry",
+		"image": "my favourite 13.jpg",
+		"price": 512,
+		"popularity": 4,
+		"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+	},{
+		"name": "The Pavilion on Berry",
+		"image": "my favourite 14.jpg",
+		"price": 512,
+		"popularity": 4,
+		"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+	},{
+		"name": "The Pavilion on Berry",
+		"image": "my favourite 15.jpg",
+		"price": 512,
+		"popularity": 3,
+		"description": "University of Minnesota, Twin Cities Minneapolis, MN"
+	}]
+}
